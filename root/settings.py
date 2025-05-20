@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'inventory',
     'sale',
     'notification',
+    'home',
 ]
 
 MIDDLEWARE = [
